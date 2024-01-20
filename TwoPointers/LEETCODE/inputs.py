@@ -4,3 +4,7 @@
 # * Valid Palindrome
 validPalindromeInput1 = "race a car"
 validPalindromeInput2 = "A man, a plan, a canal: Panama"
+
+# * Two Sum II
+TwoSumIIlist = [2, 7, 11, 15]
+TwoSumIITarget = 9
