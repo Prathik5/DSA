@@ -14,3 +14,6 @@ threeSumList = [-1, 0, 1, 2, -1, -4]
 
 # * Container with Most Water
 mostwaterInput = [1, 8, 6, 2, 5, 4, 8, 3, 7]
+
+# * Trapping Rain Water
+trappingRainWaterInput = [0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]
